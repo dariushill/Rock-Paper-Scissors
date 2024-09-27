@@ -1,0 +1,8 @@
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojResolveAssemblyReference.cache
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.CodeAnalysisLog.xml
+C:\Users\xw727d\Desktop\C#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.lastcodeanalysissucceeded
